@@ -1,0 +1,23 @@
+		        <p class='subjudul' align='center'>
+			<b> PENGELOLAAN SEKOLAH			 <br>Posisi, Distribusi Kewenangan, Fungsi dan Tanggung Jawab			</b>
+		</p>
+		
+		<p class='subjudul'>
+							<br/></p><br/>
+		<table class="tbl" border=1px>
+                <thead>
+                    <tr>
+						<th style="width:5%">No.</th>
+						  
+														<th>Posisi jabatan</th>
+						  
+														<th>Kewenangan</th>
+						  
+														<th>Fungsi</th>
+						  
+														<th>Tanggung Jawab</th>
+						                    </tr>
+                </thead>
+                <tbody>
+                                                        </tbody>
+            </table>
